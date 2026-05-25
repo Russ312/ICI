@@ -1,6 +1,6 @@
-# ICI — Infrastructure Cognition Intelligence
+# ICI: Infrastructure Condition Intelligence
 
-ICI (Infrastructure Cognition Intelligence) is an experimental AI-driven research framework focused on infrastructure systems, urban intelligence, spatial analytics, and cognition-oriented interpretation of built environments.
+ICI (Infrastructure Condition Intelligence) is an experimental AI-driven research framework focused on infrastructure systems, urban intelligence, spatial analytics, and cognition-oriented interpretation of built environments.
 
 The project explores how artificial intelligence, data science, computer vision, and geospatial analysis can contribute to a deeper understanding of infrastructure behavior, urban dynamics, and emerging intelligent city systems.
 
