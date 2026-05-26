@@ -1,39 +1,30 @@
 # ICI: Infrastructure Condition Intelligence
 
-ICI (Infrastructure Condition Intelligence) is an experimental AI-driven research framework focused on infrastructure systems, urban intelligence, spatial analytics, and cognition-oriented interpretation of built environments.
+ICI: Infrastructure Condition Intelligence
+
+ICI (Infrastructure Condition Intelligence) is an experimental AI-driven research framework focused on infrastructure systems, urban intelligence, spatial analytics, and AI-assisted interpretation of built environments.
 
 The project explores how artificial intelligence, data science, computer vision, and geospatial analysis can contribute to a deeper understanding of infrastructure behavior, urban dynamics, and emerging intelligent city systems.
 
----
-
-## Current Research Directions
-
-- Infrastructure and urban system analytics
-- Geospatial data processing and interpretation
-- Experimental infrastructure cognition workflows
-- Spatial pattern analysis
-- AI-assisted urban intelligence
-- Visualization and exploratory infrastructure metrics
-
----
-
-## Technologies
+Current Research Directions
+Infrastructure and urban system analytics
+Geospatial data processing and interpretation
+Experimental infrastructure intelligence workflows
+Spatial pattern analysis
+AI-assisted urban intelligence
+Visualization and exploratory infrastructure metrics
+Technologies
 
 Current tools and environments include:
 
-- Python
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- OpenCV
-- Scikit-learn
-
----
-
-## Repository Structure
-
-```text
+Python
+Jupyter Notebook
+NumPy
+Pandas
+Matplotlib
+OpenCV
+Scikit-learn
+Repository Structure
 ICI/
 │
 ├── notebooks/     -> Jupyter workflows and experimental analysis
@@ -45,7 +36,6 @@ ICI/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
-
 Current Status
 
 ICI is currently in an early-stage experimental research and development phase.
@@ -57,7 +47,7 @@ Long-Term Vision
 Future development directions may include:
 
 multimodal geospatial AI
-temporal infrastructure cognition
+temporal infrastructure intelligence
 agentic urban system analysis
 infrastructure resilience intelligence
 autonomous infrastructure interpretation workflows
@@ -65,4 +55,5 @@ scalable infrastructure AI pipelines
 Disclaimer
 
 This repository represents experimental independent research and prototype development.
+
 It is not production-ready software and should not be interpreted as validated engineering guidance.
